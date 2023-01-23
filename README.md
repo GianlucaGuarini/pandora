@@ -246,7 +246,7 @@ module.exports = {
 }
 ```
 
-[ci-image]: https://img.shields.io/github/workflow/status/dreipol/pandora/test?style=flat-square&branch=main
+[ci-image]: https://img.shields.io/github/actions/workflow/status/dreipol/pandora/test.yml?style=flat-square&branch=main
 [ci-url]: https://github.com/dreipol/pandora/actions
 [license-image]: http://img.shields.io/badge/license-MIT-000000.svg?style=flat-square
 [license-url]: LICENSE
